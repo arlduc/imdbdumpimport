@@ -1,6 +1,6 @@
 IMDB Data Dump Parser
 --------------------------------------------------------------------
-Date: 2/10/2010
+Date: 2/23/2016
 
 PreRequisites
 ----------------
@@ -42,9 +42,7 @@ log.unprocessed=log/unprocessed.log
 
 
 
-
-Contact:
-Abhijith Kashyap
-abhijithk@gmail.com 
+New Contact: Arlene Ducao, arlduc@dukode.com
+Original Contact: Abhijith Kashyap, abhijithk@gmail.com 
 
 
